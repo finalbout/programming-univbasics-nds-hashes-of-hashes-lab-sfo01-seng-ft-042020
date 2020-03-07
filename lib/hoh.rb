@@ -32,7 +32,7 @@
 
 def naming_system
   { label: "Kingdom",
-  sub_category{label
+  sub_category:{label
   
   # Remember:
   #  Kingdom
